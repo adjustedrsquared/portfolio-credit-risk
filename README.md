@@ -1,4 +1,4 @@
-# portfolio-risk
+# portfolio-credit-risk
 ## Introduction
 This repository models the single factor and multi factor credit risk portfolio distribution for commercial loans.
 ## Repository Structure
